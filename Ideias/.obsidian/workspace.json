@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
+                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Sem título.canvas",
                 "viewState": {
-                  "x": -155,
-                  "y": -150,
-                  "zoom": 0
+                  "x": 2173.477957786456,
+                  "y": -1045.1178282507512,
+                  "zoom": -1.3333333333333328
                 }
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
+                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
+                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Sem título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas"
+                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Sem título.canvas"
               }
             }
           }
@@ -166,15 +166,18 @@
       "command-palette:Abrir paleta de comando": false
     }
   },
-  "active": "180ddf7547db11c2",
+  "active": "870c3e78388d8695",
   "lastOpenFiles": [
+    "imagens/cores/Pasted image 20240917140629.jpg",
+    "imagens/cores/Pasted image 20240917141946.png",
+    "Notas diárias/19-09-2024.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
     "TexoModelagem/text",
     "TexoModelagem",
     "Notas diárias/TexoModelagem/text",
     "Notas diárias/TexoModelagem",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
     "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Sem título.canvas",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/01.jpg",
@@ -189,15 +192,12 @@
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/12.jpg.~tmp",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/12.jpg~RFf109e5f.TMP",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/11.jpg",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/10.jpg",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/01.jpg.~tmp",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/01.jpg~RFf0f1f70.TMP",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros",
     "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
     "Alinhar pensamentos/programação/Texto e estilos/css/Designer  (Links externos).md",
     "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
-    "Notas diárias/19-09-2024.md",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados",
     "Alinhar pensamentos/programação/Texto e estilos/css/Fontes ✔️.md",
     "Notas diárias/17-09-2024.md",
     "Notas diárias/18-09-2024.md",
