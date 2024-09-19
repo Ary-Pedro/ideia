@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"f48ce7ea0d9531ba","type":"text","text":"ia [[Python]]","x":-417,"y":-133,"width":250,"height":60},
+		{"id":"6c10ad17b8f268af","type":"text","text":"links [[Django]]","x":-464,"y":-41,"width":250,"height":51},
+		{"id":"23c48007d5d87af8","type":"text","text":"Em produção","x":-292,"y":-418,"width":278,"height":60,"color":"4"},
+		{"id":"b8cc01c3f18efaef","type":"file","file":"Pasted image 20240916142348.png","x":85,"y":-73,"width":400,"height":289},
+		{"id":"7c11884486a550e4","type":"text","text":"series","x":-890,"y":-264,"width":250,"height":60},
+		{"id":"c4d819e50d6570a1","type":"text","text":"trabalho e cursos edgy\n","x":-765,"y":-418,"width":250,"height":98},
+		{"id":"e617905369035927","type":"text","text":"conteúdo lip","x":-500,"y":-540,"width":250,"height":50},
+		{"id":"b1bd7ece60b6c0d1","type":"text","text":"[[Designer  (Links externos)]] falar do figma e resto","x":-589,"y":400,"width":400,"height":60},
+		{"id":"74362d53dd2a5ed6","type":"text","text":"falar de stable diffusion","x":-515,"y":72,"width":326,"height":60},
+		{"id":"a4c07497ee840bf3","type":"text","text":"fazer fontes do obsidian","x":-151,"y":391,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"bdbd32565d4d4056","fromNode":"23c48007d5d87af8","fromSide":"left","toNode":"f48ce7ea0d9531ba","toSide":"left","color":"5"},
+		{"id":"cba403d03f84eaf4","fromNode":"23c48007d5d87af8","fromSide":"left","toNode":"6c10ad17b8f268af","toSide":"left","color":"5"},
+		{"id":"fd24e85776f50f22","fromNode":"23c48007d5d87af8","fromSide":"left","toNode":"b1bd7ece60b6c0d1","toSide":"left","color":"5"},
+		{"id":"341ee556cd803b83","fromNode":"23c48007d5d87af8","fromSide":"bottom","toNode":"b8cc01c3f18efaef","toSide":"left","label":"Falar sobre "},
+		{"id":"d9a0e71dfad33c80","fromNode":"23c48007d5d87af8","fromSide":"left","toNode":"74362d53dd2a5ed6","toSide":"left"}
+	]
+}
