@@ -16,6 +16,6 @@
 		{"id":"cba403d03f84eaf4","fromNode":"23c48007d5d87af8","fromSide":"left","toNode":"6c10ad17b8f268af","toSide":"left","color":"5"},
 		{"id":"fd24e85776f50f22","fromNode":"23c48007d5d87af8","fromSide":"left","toNode":"b1bd7ece60b6c0d1","toSide":"left","color":"5"},
 		{"id":"341ee556cd803b83","fromNode":"23c48007d5d87af8","fromSide":"right","toNode":"b8cc01c3f18efaef","toSide":"left","label":"Falar sobre "},
-		{"id":"d9a0e71dfad33c80","fromNode":"23c48007d5d87af8","fromSide":"left","toNode":"74362d53dd2a5ed6","toSide":"left"}
+		{"id":"d9a0e71dfad33c80","fromNode":"23c48007d5d87af8","fromSide":"left","toNode":"74362d53dd2a5ed6","toSide":"left","color":"5"}
 	]
 }

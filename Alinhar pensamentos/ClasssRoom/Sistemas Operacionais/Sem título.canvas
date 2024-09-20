@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"b2e41581f2400d40","type":"text","text":"# Roteiro","x":-600,"y":-500,"width":140,"height":60},
+		{"id":"b2e41581f2400d40","type":"text","text":"# Roteiro","x":-600,"y":-500,"width":160,"height":50},
 		{"id":"7784f7fe06edcfe4","type":"text","text":"#  1 HISTÓRICO","x":-475,"y":-195,"width":195,"height":60,"color":"6"},
 		{"id":"96857b5eaf13f74c","type":"text","text":"# 2 PROCESSO","x":-189,"y":-315,"width":220,"height":60,"color":"6"},
 		{"id":"9a41b7081bb5fde7","type":"text","text":"# 3 ESTRUTURA DO SISTEMA OPERACIONAL","x":300,"y":-700,"width":516,"height":70,"color":"6"},
@@ -18,13 +18,13 @@
 		{"id":"60c3220157b81b9e","type":"text","text":"##  ALGORITMOS DE ESCALONAMENTO","x":3560,"y":-1802,"width":420,"height":60,"color":"3"},
 		{"id":"27a550ea82911336","type":"text","text":"# GERÊNCIA DO PROCESSADOR OU ESCALONAMENTO DE PROCESSOS","x":3260,"y":-2380,"width":837,"height":73,"color":"6"},
 		{"id":"0f94aca405b4d6c5","type":"text","text":"## PARÂMETROS A SEREM ATENDIDOS\n\n(JUSTIÇA, TURNAROUND TIME, THROUGHPUT, TEMPO DE RESPOSTA E TAXA DE UTILIZAÇÃO DA CPU)","x":3640,"y":-2040,"width":1040,"height":151,"color":"3"},
-		{"id":"435199723fa14841","type":"file","file":"Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md","x":-1920,"y":-1480,"width":860,"height":938},
+		{"id":"435199723fa14841","type":"file","file":"Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md","x":-1920,"y":-1480,"width":575,"height":600},
 		{"id":"075fe77c2482121f","type":"text","text":"##  FUNÇÕES DO GERENCIADOR\n(CONTROLE DE OCUPAÇÃO, ALOCAÇÃO DE MEMÓRIA, PROTEÇÃO DE MEMÓRIA E SWAPPING)","x":4342,"y":-2520,"width":958,"height":140,"color":"3"},
 		{"id":"a8fbc650ab8caf43","type":"text","text":"# GERÊNCIA DE MEMÓRIA","x":4042,"y":-3098,"width":837,"height":73,"color":"6"},
 		{"id":"0d360d92038ff808","type":"text","text":"## MEMÓRIA VIRTUAL \n(PAGINAÇÃO, SEGMENTAÇÃO E SEGMENTAÇÃO COM PAGINAÇÃO)","x":4461,"y":-2760,"width":699,"height":151,"color":"3"},
 		{"id":"0a49b835a86fd034","type":"text","text":"# INTERRUPÇÕES / EXCEÇÕES","x":2614,"y":-1780,"width":374,"height":75,"color":"6"},
 		{"id":"97e534691e58e1f3","type":"text","text":"#  GERÊNCIA DE ENTRADA/SAÍDA","x":4960,"y":-3640,"width":461,"height":60,"color":"6"},
-		{"id":"8961a83cfad1cfc3","x":-1410,"y":54,"width":130,"height":60,"type":"text","text":"# Slides"},
+		{"id":"8961a83cfad1cfc3","type":"text","text":"# Slides","x":-1410,"y":54,"width":130,"height":60},
 		{"id":"18e5ad1f79f9574b","type":"text","text":"## STARVATION","x":2148,"y":-1080,"width":197,"height":55,"color":"3"},
 		{"id":"486907a75d5357a4","type":"text","text":"## DEADLOCKS","x":2223,"y":-1165,"width":190,"height":50,"color":"3"},
 		{"id":"452314b3e4565944","type":"text","text":"## CONTEXTO","x":260,"y":-215,"width":251,"height":50,"color":"3"}
