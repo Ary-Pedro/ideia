@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2659e099f47db2ea",
+        "id": "0cb94527a629a992",
         "type": "tabs",
         "children": [
           {
-            "id": "4fad9979c213d07b",
+            "id": "870c3e78388d8695",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
+                "viewState": {
+                  "x": -155,
+                  "y": -150,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "d269735c68c4ca64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
-                "mode": "preview",
+                "file": "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -39,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#PROCESSOtag:#PROCESSO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
+                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
+                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,103 +141,83 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md"
+                "file": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas"
               }
             }
-          },
-          {
-            "id": "619b12e6865e0562",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "075a0918e456c2aa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Abrir Visualização de diagrama de grafo": false,
-      "canvas:Create new canvas": false,
-      "obsidian-kanban:Create new board": false,
       "switcher:Abrir Quick Switcher": false,
       "daily-notes:Abrir nota de hoje": false,
       "templates:Inserir templates": false,
       "zk-prefixer:Crie uma nova nota única": false,
       "workspaces:Gerir esquema da área de trabalho": false,
-      "markdown-importer:Importador de Open Markdown": false,
-      "command-palette:Abrir paleta de comando": false,
+      "canvas:Create new canvas": false,
       "audio-recorder:Começar/parar gravação": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "markdown-importer:Importador de Open Markdown": false,
+      "command-palette:Abrir paleta de comando": false
     }
   },
-  "active": "075a0918e456c2aa",
+  "active": "180ddf7547db11c2",
   "lastOpenFiles": [
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas.md",
-    "Notas diárias/001 Datas Sumário.md",
-    "Notas diárias/17-09-2024.md",
-    "Fazendo.canvas",
-    "Untitled Kanban.md",
-    "Sem título.canvas",
-    "ver.png",
-    "Notas diárias/20-09-2024.md",
-    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Sem título.canvas",
-    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
-    "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
-    "202409200903.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
-    "Notas diárias/19-09-2024.md",
-    "Alinhar pensamentos/programação/Texto e estilos/css/Designer  (Links externos).md",
-    "Alinhar pensamentos/programação/Texto e estilos/css/Fontes ✔️.md",
+    "TexoModelagem/text",
     "TexoModelagem",
-    "TexoModelagem/ver.png",
-    "TexoModelagem/Fazendo.canvas",
-    "templates",
-    "Notas diárias",
-    "imagens/fontes/Fontes-com-Serifa-CINZEL.png",
-    "imagens/fontes/Fonte-Sem-Serifa-Nethead.png",
-    "imagens/fontes/Fonte-Monospace.png",
-    "imagens/fontes/Fonte-Fantasy.png",
-    "imagens/fontes/Fonte-Cursive.png",
-    "imagens/fontes/anatomia fontes.png",
-    "imagens/cores/Pasted image 20240918080107.jpg",
-    "imagens/cores/Pasted image 20240918075921.png",
-    "imagens/fontes",
-    "imagens/cores",
-    "imagens",
-    "Alinhar pensamentos/programação/Texto e estilos/css",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/SQL.md",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Python.md",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Power BI.md",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Lang Chain.md",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Django.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas",
-    "Alinhar pensamentos/programação/Texto e estilos",
-    "TexoModelagem/Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Sem título.canvas",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/01.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/18.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/17.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/16.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/15.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/14.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/12.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/13.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/12.jpg.~tmp",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/12.jpg~RFf109e5f.TMP",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/11.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/10.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/01.jpg.~tmp",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/01.jpg~RFf0f1f70.TMP",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Designer  (Links externos).md",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
+    "Notas diárias/19-09-2024.md",
+    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Fontes ✔️.md",
+    "Notas diárias/17-09-2024.md",
     "Notas diárias/18-09-2024.md",
     "Notas diárias/15-09-2024.md",
+    "Fazendo.canvas",
     "Aqui.md",
+    "Notas diárias/001 Datas Sumário.md",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Python.md",
     "Notas diárias/16-09-2024.md",
     "stockimg.ai.md",
     "notas diarias/Sem título.md",
+    "exemplo.md",
+    "202409152352.md",
+    "secao1.md",
+    "Fontes.secao1.md",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Power BI.md",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Lang Chain.md",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Django.md",
     "Sem título 1.canvas",
-    "Alinhar pensamentos/programação/Texto e estilos/Mapa mental Style.canvas"
+    "Alinhar pensamentos/programação/Texto e estilos/Mapa mental Style.canvas",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/SQL.md"
   ]
 }
