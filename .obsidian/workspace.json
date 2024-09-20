@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "32dece9aef9453f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "83cc4fbfd0805bb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971778cbf605ced7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7d775155dc6ead1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac7a716a852fcec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98882f54d732d5d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#PROCESSOtag:#PROCESSO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd973723bf4512d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "180ddf7547db11c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 489.5
+  },
+  "right": {
+    "id": "81fdec77f1d685ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "4429b6a7079054ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c0556c5274c835",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "647e9c664f1240f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b17333e513397d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e7fa23250cff432",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "switcher:Abrir Quick Switcher": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "zk-prefixer:Crie uma nova nota única": false,
+      "workspaces:Gerir esquema da área de trabalho": false,
+      "canvas:Create new canvas": false,
+      "audio-recorder:Começar/parar gravação": false,
+      "markdown-importer:Importador de Open Markdown": false,
+      "command-palette:Abrir paleta de comando": false
+    }
+  },
+  "active": "971778cbf605ced7",
+  "lastOpenFiles": [
+    "TexoModelagem",
+    "TexoModelagem/ver.png",
+    "TexoModelagem/Fazendo.canvas",
+    "ver.png",
+    "Fazendo.canvas",
+    "templates",
+    "Notas diárias/19-09-2024.md",
+    "Notas diárias/17-09-2024.md",
+    "Notas diárias/001 Datas Sumário.md",
+    "Notas diárias",
+    "imagens/fontes/Fontes-com-Serifa-CINZEL.png",
+    "imagens/fontes/Fonte-Sem-Serifa-Nethead.png",
+    "imagens/fontes/Fonte-Monospace.png",
+    "imagens/fontes/Fonte-Fantasy.png",
+    "imagens/fontes/Fonte-Cursive.png",
+    "imagens/fontes/anatomia fontes.png",
+    "imagens/cores/Pasted image 20240918080107.jpg",
+    "imagens/cores/Pasted image 20240918075921.png",
+    "imagens/fontes",
+    "imagens/cores",
+    "imagens",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Fontes ✔️.md",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Designer  (Links externos).md",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
+    "Alinhar pensamentos/programação/Texto e estilos/css",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/SQL.md",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Python.md",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Power BI.md",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Lang Chain.md",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Django.md",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Sem título.canvas",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas",
+    "Alinhar pensamentos/programação/Texto e estilos",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)",
+    "TexoModelagem/Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.md",
+    "Notas diárias/18-09-2024.md",
+    "Notas diárias/15-09-2024.md",
+    "Aqui.md",
+    "Notas diárias/16-09-2024.md",
+    "stockimg.ai.md",
+    "notas diarias/Sem título.md",
+    "exemplo.md",
+    "202409152352.md",
+    "secao1.md",
+    "Sem título 1.canvas",
+    "Alinhar pensamentos/programação/Texto e estilos/Mapa mental Style.canvas"
+  ]
+}
