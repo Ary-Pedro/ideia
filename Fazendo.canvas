@@ -3,7 +3,7 @@
 		{"id":"f48ce7ea0d9531ba","type":"text","text":"ia [[Python]]","x":-417,"y":-133,"width":250,"height":60},
 		{"id":"6c10ad17b8f268af","type":"text","text":"links [[Django]]","x":-464,"y":-41,"width":250,"height":51},
 		{"id":"23c48007d5d87af8","type":"text","text":"Em produção","x":-292,"y":-418,"width":278,"height":60,"color":"4"},
-		{"id":"b8cc01c3f18efaef","type":"file","file":"TexoModelagem/ver.png","x":85,"y":-73,"width":400,"height":289},
+		{"id":"b8cc01c3f18efaef","type":"file","file":"ver.png","x":85,"y":-73,"width":400,"height":289},
 		{"id":"7c11884486a550e4","type":"text","text":"series","x":-890,"y":-264,"width":250,"height":60},
 		{"id":"c4d819e50d6570a1","type":"text","text":"trabalho e cursos edgy\n","x":-765,"y":-418,"width":250,"height":98},
 		{"id":"e617905369035927","type":"text","text":"conteúdo lip","x":-500,"y":-540,"width":250,"height":50},

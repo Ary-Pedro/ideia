@@ -11,8 +11,15 @@
             "id": "971778cbf605ced7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Fazendo.canvas",
+                "viewState": {
+                  "x": 147.6226259440471,
+                  "y": 109.03589331022344,
+                  "zoom": 0.04352645393204002
+                }
+              }
             }
           }
         ]
@@ -82,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fazendo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fazendo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fazendo.canvas"
+              }
             }
           }
         ]
@@ -145,6 +156,7 @@
   },
   "active": "971778cbf605ced7",
   "lastOpenFiles": [
+    "Notas diárias/20-09-2024.md",
     "TexoModelagem",
     "TexoModelagem/ver.png",
     "TexoModelagem/Fazendo.canvas",
@@ -183,7 +195,6 @@
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas",
     "Alinhar pensamentos/programação/Texto e estilos",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)",
     "TexoModelagem/Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.md",
     "Notas diárias/18-09-2024.md",
