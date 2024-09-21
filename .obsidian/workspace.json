@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6fe5c71cd6096781",
+        "id": "c2be05deb84cca2e",
         "type": "tabs",
         "children": [
           {
-            "id": "e86028a8d1f59da5",
+            "id": "0e63f5da3a98d46c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pensamentos soltos/atalhos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5
+    "width": 486.5
   },
   "right": {
     "id": "81fdec77f1d685ac",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pensamentos soltos/atalhos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pensamentos soltos/atalhos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pensamentos soltos/atalhos.md"
+              }
             }
           },
           {
@@ -156,7 +163,7 @@
             }
           },
           {
-            "id": "8876b42be414647f",
+            "id": "01ad7faca5f1f917",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -164,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -173,10 +180,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "canvas:Create new canvas": false,
       "graph:Abrir Visualização de diagrama de grafo": false,
       "obsidian-kanban:Create new board": false,
-      "switcher:Abrir Quick Switcher": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "daily-notes:Abrir nota de hoje": false,
       "templates:Inserir templates": false,
       "zk-prefixer:Crie uma nova nota única": false,
@@ -185,65 +193,66 @@
       "command-palette:Abrir paleta de comando": false,
       "audio-recorder:Começar/parar gravação": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-day-planner:Timeline": false,
-      "homepage:Open homepage": false
+      "obsidian-projects:Open projects": false,
+      "switcher:Abrir Quick Switcher": false,
+      "obsidian-importer:Open Importer": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "e86028a8d1f59da5",
+  "active": "0e63f5da3a98d46c",
   "lastOpenFiles": [
-    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
-    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
-    "Untitled Kanban.md",
-    "Untitled Kanban 1.md",
-    "Fazendo.canvas",
-    "Afazeres.md",
-    "Notas diárias/20-09-2024.md",
-    "Notas diárias/17-09-2024.md",
-    "ver.png",
-    "Alinhar pensamentos/programação/Texto e estilos/css/Designer  (Links externos).md",
-    "Alinhar pensamentos/programação/Texto e estilos/css/Fontes ✔️.md",
-    "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
-    "Sem título.md",
+    "pensamentos soltos/Afazeres.md",
+    "pensamentos soltos/Fazendo.canvas",
+    "Notas diárias/21-09-2024.md",
     "Notas diárias/001 Datas Sumário.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
+    "Notas diárias/17-09-2024.md",
+    "pensamentos soltos/Vagas de emprego.md",
+    "pensamentos soltos/atalhos.md",
+    "pensamentos soltos/Séries.md",
+    "pensamentos soltos/ver.png",
+    "Home.md",
+    "copilot-conversations/tem_limite_de_perguntas@2024_09_21_07_52_44.md",
+    "pensamentos soltos/como fazer um banner.md",
+    "pensamentos soltos/Addons Obsidian.md",
+    "pensamentos soltos/Series",
+    "copilot-conversations",
+    "pensamentos soltos",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Fontes ✔️.md",
+    "imagens/cores/Pasted image 20240918075921.png",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
+    "imagens/cores/Pasted image 20240917140629.jpg",
+    "imagens/cores/Pasted image 20240917151205.jpg",
+    "imagens/cores/Pasted image 20240917141946.png",
+    "imagens/fontes/Fonte-Cursive.png",
+    "imagens/fontes/Fonte-Fantasy.png",
+    "imagens/fontes/Fonte-Sem-Serifa-Nethead.png",
+    "imagens/fontes/anatomia fontes.png",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
+    "Sem título 1.md",
+    "Untitled Kanban.md",
+    "2024-W38.md",
+    "imagens/banners/002.jpg",
+    "imagens/banners",
+    "Untitled Kanban 1.md",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Designer  (Links externos).md",
     "Sem título.canvas",
     "202409200903.md",
     "Notas diárias/19-09-2024.md",
     "TexoModelagem",
-    "TexoModelagem/ver.png",
     "TexoModelagem/Fazendo.canvas",
     "templates",
     "Notas diárias",
-    "imagens/fontes/Fontes-com-Serifa-CINZEL.png",
-    "imagens/fontes/Fonte-Sem-Serifa-Nethead.png",
-    "imagens/fontes/Fonte-Monospace.png",
-    "imagens/fontes/Fonte-Fantasy.png",
-    "imagens/fontes/Fonte-Cursive.png",
-    "imagens/fontes/anatomia fontes.png",
-    "imagens/cores/Pasted image 20240918080107.jpg",
-    "imagens/cores/Pasted image 20240918075921.png",
     "imagens/fontes",
     "imagens/cores",
     "imagens",
-    "Alinhar pensamentos/programação/Texto e estilos/css",
     "Alinhar pensamentos/programação/Referente a (oque quero estudar)/SQL.md",
     "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Python.md",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Power BI.md",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Lang Chain.md",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Django.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.canvas",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas",
-    "Alinhar pensamentos/programação/Texto e estilos",
-    "TexoModelagem/Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.md",
-    "Notas diárias/18-09-2024.md",
-    "Notas diárias/15-09-2024.md",
-    "Aqui.md",
     "Sem título 1.canvas",
     "Alinhar pensamentos/programação/Texto e estilos/Mapa mental Style.canvas"
   ]

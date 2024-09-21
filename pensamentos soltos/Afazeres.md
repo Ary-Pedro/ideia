@@ -6,26 +6,27 @@ kanban-plugin: board
 
 ## classroom
 
-- [ ] Tde economia e etica (seminario)
+- [ ] termina resumo de sis op - fazendo
 - [ ] Fazer resumo de George
-- [ ] termina Tde de Analise (George)
+- [ ] termina Tde de Analise (George) - fazendo
 - [ ] Resumo de arquitetura(prog)
-- [ ] termina resumo de sis op
+- [ ] Tde economia e etica (seminario)
 
 
 ## Fazer
 
 - [ ] aplicação, local host
 - [ ] comissão
-- [ ] pensar oq falar na integradiora
 - [ ] Listar exercicios da cristina: economi e etica
 - [ ] configurar o git
+- [ ] pesquisar e  baixar stable diffusion
 
 
 ## Fazendo
 
 - [ ] sis operacionais
 - [ ] finalizar textos - termina resumo de sis op
+- [ ] termina Tde de Analise (George)
 
 
 ## Feito
@@ -34,6 +35,7 @@ kanban-plugin: board
 - [x] Tde economia
 - [x] ver telefone e not pra ster
 - [x] Afazeres d acordo com o Classroom
+- [x] pensar oq falar na integradiora
 
 
 ***

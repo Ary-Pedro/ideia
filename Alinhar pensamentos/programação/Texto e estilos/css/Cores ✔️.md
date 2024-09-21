@@ -1,5 +1,7 @@
 # Esquemas de cores 
 As três principais harmonias de cores
+
+---
 ## Cores Complementares
 As cores complementares são pares de cores que  estão opostas no círculo cromático. Quando usadas juntas, criam um contraste forte e vibrante. Exemplos:
 
@@ -17,6 +19,8 @@ As cores complementares são pares de cores que  estão opostas no círculo crom
 
 - Uma cor quente pode ser combinada com uma cor fria para equilibrar o contraste. Exemplo: Azul (frio) e Laranja (quente).
 
+---
+
 ## Cores Análogas
 As cores análogas estão próximas umas das outras no círculo cromático. Elas compartilham um tom comum e criam esquemas de cores harmoniosos e suaves.
 
@@ -32,6 +36,8 @@ As cores análogas estão próximas umas das outras no círculo cromático. Elas
 **Combinações com cores frias e quentes**:
 
 - As cores análogas são mais suaves e podem ter uma combinação dentro de uma gama fria (ex.: Azul e Verde) ou quente (ex.: Laranja e Vermelho).
+  
+---
 
 ## Cores Triádicas
 As cores triádicas são três cores equidistantes no círculo cromático. Formam um esquema equilibrado e vibrante, com um contraste suave.
@@ -48,9 +54,13 @@ As cores triádicas são três cores equidistantes no círculo cromático. Forma
 **Combinações com cores frias e quentes**:
 
 - Podem incluir uma mistura de cores frias e quentes. Exemplo: Azul (fria), Vermelho (quente) e Amarelo (neutro).
+  
+---
 
 ## Imagens
-![[Pasted image 20240917140629.jpg]]
+![[Pasted image 20240917140629.jpg|2864]]
+---
+---
 # Definição da Cor
 ##  Matiz (Hue)
 O matiz é a própria "cor" que vemos no círculo cromático. Cada cor primária e secundária tem seu próprio matiz, que é a base de todo o esquema de cores.
@@ -111,8 +121,8 @@ A opacidade de uma cor define quão "visível" ou "transparente" ela é. No desi
 **Uso no design**:
 - Usado em sobreposições, efeitos de vidro (glassmorphism), e para criar hierarquia visual.
 ## imagens
-![[Pasted image 20240918075921.png]]
-![[Pasted image 20240918080107.jpg]]
+![[Pasted image 20240918075921.png|362]]
+![[Pasted image 20240918080107.jpg|392]]
 #  Temperatura das Cores
 ## Definição 
 As cores podem ser divididas entre **quentes** e **frias**. No entanto, a temperatura da cor também pode ser ajustada, dependendo da tonalidade e da saturação.
@@ -227,4 +237,4 @@ Gradientes são transições suaves entre duas ou mais cores. Eles são muito us
 
 
 # Imagem
-![[Pasted image 20240917141946.png]]
+![[Pasted image 20240917141946.png|617]]
