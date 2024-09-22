@@ -37,7 +37,7 @@ b. MEMÓRIA VIRTUAL (PAGINAÇÃO, SEGMENTAÇÃO E SEGMENTAÇÃO COM PAGINAÇÃO)
 
 8. GERÊNCIA DE ENTRADA/SAÍDA
    
-   [[Mapa.canvas|Mapa]] 
+   [[Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas|Mapa]] 
    
 AVALIAÇÕES: 8 MINUTOS DE CONSULTA
 

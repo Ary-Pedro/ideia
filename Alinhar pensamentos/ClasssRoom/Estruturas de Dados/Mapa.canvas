@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"668187ac2a6f7af5","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/01 Módulo 02 - Introdução à Linguagem Java.pdf","x":-2400,"y":-1440,"width":2880,"height":3040},
+		{"id":"45aa762e4b846450","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/01 Módulo 02 - Introdução à Linguagem Java.pdf","subpath":"#page=1","x":-2540,"y":-1440,"width":3020,"height":3040},
+		{"id":"b3950a2fabee8378","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/02 Módulo 03 - Elementos de Java.pdf","x":1360,"y":-1440,"width":3020,"height":3040},
+		{"id":"c3bc41c3cf4df29b","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/03 Módulo de Coleções em Java.pdf","x":5040,"y":-1440,"width":3020,"height":3040},
+		{"id":"dcd0f129c07dc2d1","x":9269,"y":-209,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=-58kmc7qLK0&ab_channel=AlessandroCerqueira"},
+		{"id":"1dbff67f285c07e8","x":10060,"y":-209,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=HiCNX_UQvq4&ab_channel=AlessandroCerqueira"}
+	],
+	"edges":[]
+}
