@@ -1,6 +1,6 @@
 {
   "format": "DD-MM-YYYY",
-  "autorun": true,
+  "autorun": false,
   "folder": "Notas diárias",
   "template": ""
 }

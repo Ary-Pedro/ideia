@@ -10,8 +10,6 @@ kanban-plugin: board
 
 ## Capitulo 2
 
-- [ ] 2.5 Diagrama de Estado (1-3)
-- [ ] 2.4 Descrições dos Casos de Uso(2-3)
 
 
 ## Feitos
@@ -22,6 +20,9 @@ kanban-plugin: board
 - [ ] objetivo
 - [ ] Justificativa
 - [ ] Descrição
+- [ ] 2.4 Descrições dos Casos de Uso(2-3)
+- [ ] 2.5 Diagrama de Estado (1-3)
+- [ ] Atualizar
 
 
 ## t2
@@ -40,10 +41,14 @@ kanban-plugin: board
 - [ ] fazer comclusão
 
 
+## Feitos
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,false]}
 ```
 %%

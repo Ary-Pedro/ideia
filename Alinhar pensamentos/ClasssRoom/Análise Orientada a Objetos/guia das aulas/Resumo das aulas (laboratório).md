@@ -1,4 +1,4 @@
-#afazer
+# afazer
 Estudar pelo: [profissionaloracle.com.br](http://profissionaloracle.com.br/)  
   
 Sites [draw.io](http://draw.io/), [Db Designer](https://erd.dbdesigner.net/dashboard)
@@ -54,4 +54,4 @@ select DEPT.DNAME as DNAME,
  where DEPT.DEPTNO=EMP.DEPTNO
 ```
 
-Veja detalhes em [[Resumo das aulas]]
+

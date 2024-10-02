@@ -90,7 +90,7 @@ O brilho refere-se à claridade ou escuridão de uma cor. Cores claras têm um v
 - Cores claras são usadas para atrair atenção ou criar uma sensação de espaço e abertura.
 - Cores escuras são usadas para criar profundidade, contrastes ou um tom mais sério.
 
-##  Tons, Sombras e Semitons
+## qq Tons, Sombras e Semitons
 Esses conceitos referem-se à adição de preto, branco ou cinza a uma cor para alterar seu valor ou intensidade.
 
 - **Tonalidade (Tint)**: É a adição de branco a uma cor, resultando em uma versão mais clara (por exemplo, rosa é um tom de vermelho).

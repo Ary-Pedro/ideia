@@ -4,29 +4,31 @@ kanban-plugin: board
 
 ---
 
+## Autônomo - fazendo
+
+
+
 ## classroom
 
 - [ ] termina resumo de sis op - fazendo
-- [ ] Fazer resumo de George
-- [ ] termina Tde de Analise (George) - fazendo
 - [ ] Resumo de arquitetura(prog)
-- [ ] Tde economia e etica (seminario)
+- [ ] termina Tde de Analise (George) - fazendo T12
+- [ ] Atualizar dados, Atividade integradora
 
 
 ## Fazer
 
-- [ ] aplicação, local host
-- [ ] comissão
-- [ ] Listar exercicios da cristina: economi e etica
-- [ ] configurar o git
 - [ ] pesquisar e  baixar stable diffusion
+- [ ] configurar o git do Obsidian
 
 
 ## Fazendo
 
-- [ ] sis operacionais
 - [ ] finalizar textos - termina resumo de sis op
-- [ ] termina Tde de Analise (George)
+- [ ] fazer seminário, economia e ética
+- [ ] Listar exercícios da Cristina: economia e ética
+- [ ] atualizar metodologia e termos atvdd integradora
+- [ ] montar o sistema, autônomo e integradora
 
 
 ## Feito
@@ -36,6 +38,17 @@ kanban-plugin: board
 - [x] ver telefone e not pra ster
 - [x] Afazeres d acordo com o Classroom
 - [x] pensar oq falar na integradiora
+- [x] termina Tde de Analise (George) - fazendo T1
+- [x] aplicação, local host (autônomo)
+- [x] comissão (autônomo)
+- [x] termina Tde de Analise (George) ATUALIZAR CORREÇÃO
+- [x] Fazer resumo de George
+
+
+## Ong fazendo
+
+- [ ] Ong - atualizar e verificar funcionalidades
+- [ ] ONG INSTALAÇÃO, MARCA DIA
 
 
 ***
@@ -47,6 +60,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-archive-all":false}
+{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,true],"show-archive-all":false}
 ```
 %%

@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHome",
+      "⁉",
+      "⚠",
       "🖌"
     ],
     "recentlyUsedIconsSize": 5,
@@ -28,5 +31,14 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
+  },
+  "pensamentos soltos/Afazeres.md": "⚠",
+  "pensamentos soltos/atalhos.md": "⁉",
+  "pensamentos soltos/como fazer um banner.md": "⁉",
+  "pensamentos soltos/Fazendo.canvas": "⚠",
+  "pensamentos soltos/labs unity.canvas": "⚠",
+  "Home.md": {
+    "iconName": "LiHome",
+    "iconColor": "#615fc4"
   }
 }

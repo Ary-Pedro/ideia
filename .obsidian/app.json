@@ -2,5 +2,7 @@
   "showLineNumber": true,
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false,
+  "newLinkFormat": "shortest"
 }

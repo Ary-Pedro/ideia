@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d67be2ca26f63d8c",
+        "id": "b854663d80bda28a",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "4324184ff7e5eb06",
+            "id": "6aa9c7f0fafd9479",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
-                "viewState": {
-                  "x": 13688.97245714948,
-                  "y": -2757.0050426621674,
-                  "zoom": -1.2350292787696022
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -51,14 +45,6 @@
             }
           },
           {
-            "id": "dd973723bf4512d5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "180ddf7547db11c2",
             "type": "leaf",
             "state": {
@@ -69,20 +55,19 @@
             }
           },
           {
-            "id": "124d195d50511c17",
+            "id": "9c1b5416e0b1731f",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "bookmarks",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 400.5
   },
   "right": {
     "id": "81fdec77f1d685ac",
@@ -98,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +140,7 @@
             }
           },
           {
-            "id": "619b12e6865e0562",
+            "id": "77a31b91794aeea4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -167,7 +148,7 @@
             }
           },
           {
-            "id": "bfa8a475cca6feec",
+            "id": "ec014abec412a912",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -175,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,59 +185,61 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4324184ff7e5eb06",
+  "active": "6aa9c7f0fafd9479",
   "lastOpenFiles": [
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/03 Módulo de Coleções em Java.pdf",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/02 Módulo 03 - Elementos de Java.pdf",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/01 Módulo 02 - Introdução à Linguagem Java.pdf",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Mapa.canvas",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Lang Chain.md",
-    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
-    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
-    "01 Módulo 02 - Introdução à Linguagem Java.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Mapa.canvas",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Untitled Kanban.md",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria",
-    "Notas diárias/22-09-2024.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/02.jpg",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/01.jpg",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/18.jpg",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/16.jpg",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/17.jpg",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Sem título.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas.md",
-    "pensamentos soltos/Afazeres.md",
-    "Notas diárias/21-09-2024.md",
-    "Notas diárias/17-09-2024.md",
-    "Notas diárias/001 Datas Sumário.md",
-    "pensamentos soltos/Séries.md",
-    "pensamentos soltos/Addons Obsidian.md",
     "Home.md",
-    "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
-    "pensamentos soltos/atalhos.md",
-    "pensamentos soltos/Fazendo.canvas",
+    "pensamentos soltos/Afazeres.md",
+    "pensamentos soltos/Soltos.md",
     "pensamentos soltos/Vagas de emprego.md",
-    "pensamentos soltos/ver.png",
-    "copilot-conversations/tem_limite_de_perguntas@2024_09_21_07_52_44.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Diagrama de classe de projeto.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo, Análise Orientada a Objetos.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Tasks.md",
+    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Resumo, Estruturas de Dados.md",
+    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Mapa.canvas",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/02.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/03.jpg",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/04.jpg",
+    "pensamentos soltos/Addons Obsidian.md",
+    "Notas diárias/23-09-2024.md",
+    "Notas diárias/001 Datas Sumário.md",
+    "Notas diárias/17-09-2024.md",
+    "Notas diárias/25-09-2024.md",
+    "Notas diárias/21-09-2024.md",
+    "Notas diárias/Sem título.md",
     "pensamentos soltos/como fazer um banner.md",
-    "pensamentos soltos/Series",
-    "copilot-conversations",
-    "pensamentos soltos",
-    "Alinhar pensamentos/programação/Texto e estilos/css/Fontes ✔️.md",
-    "imagens/cores/Pasted image 20240918075921.png",
-    "imagens/cores/Pasted image 20240917140629.jpg",
-    "imagens/cores/Pasted image 20240917151205.jpg",
-    "imagens/cores/Pasted image 20240917141946.png",
-    "Sem título 1.md",
-    "Untitled Kanban.md",
-    "2024-W38.md",
-    "imagens/banners",
-    "Untitled Kanban 1.md",
+    "pensamentos soltos/Fazendo.canvas",
+    "imagens/fontes/anatomia fontes.png",
+    "imagens/Pensamentos, arquivos de imagens/ver.png",
+    "imagens/Pasted image 20241002083207.png",
+    "imagens/Pasted image 20241002082629.png",
+    "7.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Quente.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Mapa.canvas",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/exer5_2024.pdf",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzaZz0idCaM3mE0bxdjAHRjkHsGvz3vVBTZrcsp6v46Ko6BCgt_3qoc5JUwGonVbiEHBb9pqbrYLBQwItqHgH2sTvrvGFC3bdL3azAEgBsfWYQOJSAW6-JVWU7UmvgAVNO7rzocgyS_IbjfCGPP1NJ282MpmyriwPhJhfDQnotOuQEvYpz-Cp9tTuTbbC0fpjQo4aG30p3WN51n (1).pdf",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzaZz0idCaM3mE0bxdjAHRjkHsGvz3vVBTZrcsp6v46Ko6BCgt_3qoc5JUwGonVbiEHBb9pqbrYLBQwItqHgH2sTvrvGFC3bdL3azAEgBsfWYQOJSAW6-JVWU7UmvgAVNO7rzocgyS_IbjfCGPP1NJ282MpmyriwPhJhfDQnotOuQEvYpz-Cp9tTuTbbC0fpjQo4aG30p3WN51niPeV.pdf",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Diagrama de classe conceito.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Diagrama de Classe Caso de uso.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Diagrama de Classe Estado (DTE).md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes/Pasted image 20241002114458.png",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes/Pasted image 20241002115402.png",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes/Pasted image 20241002114808.png",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Resumo das aulas (laboratório).md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/exer2_2024.2.pdf",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Revisão de analise e conceitos.md",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzabIPYmoIVgjdfZM_gxtbwpnlKq7F3sI7dZFM4WMhekF0AjTOkIIcUiRmqNYtvdiKFMsDL-HXRWrrZAUCNQeLIra3EykQFwr8Y6lwq6g61iiU19BK6SaWaXKbxby0ozPyikTdNxqvNjPrIDqtgUdOqToRBZ-8ra_YEiTa0W_NJsPWcpxcBQoQHBdyFlNyeT3m-TL.pdf",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes",
+    "pensamentos soltos/labs unity.canvas",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro",
+    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes",
+    "link --.md",
+    "Alinhar pensamentos/ClasssRoom/humanas/ética",
+    "Alinhar pensamentos/ClasssRoom/humanas/economia",
+    "pensamentos soltos/atalhos.md",
+    "pensamentos soltos/Séries.md",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
     "Sem título.canvas",
-    "TexoModelagem",
     "TexoModelagem/Fazendo.canvas",
-    "templates",
     "Sem título 1.canvas",
     "Alinhar pensamentos/programação/Texto e estilos/Mapa mental Style.canvas"
   ]

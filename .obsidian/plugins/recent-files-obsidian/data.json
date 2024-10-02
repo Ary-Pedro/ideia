@@ -1,48 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Designer  (Links externos)",
+      "path": "Alinhar pensamentos/programação/Texto e estilos/css/Designer  (Links externos).md"
+    },
+    {
+      "basename": "Cores ✔️",
+      "path": "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md"
+    },
+    {
+      "basename": "001 Datas Sumário",
+      "path": "Notas diárias/001 Datas Sumário.md"
+    },
+    {
       "basename": "Mapa",
       "path": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas"
-    },
-    {
-      "basename": "03 Módulo de Coleções em Java",
-      "path": "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/03 Módulo de Coleções em Java.pdf"
-    },
-    {
-      "basename": "02 Módulo 03 - Elementos de Java",
-      "path": "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/02 Módulo 03 - Elementos de Java.pdf"
-    },
-    {
-      "basename": "01 Módulo 02 - Introdução à Linguagem Java",
-      "path": "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/01 Módulo 02 - Introdução à Linguagem Java.pdf"
-    },
-    {
-      "basename": "Mapa",
-      "path": "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Mapa.canvas"
-    },
-    {
-      "basename": "Lang Chain",
-      "path": "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Lang Chain.md"
     },
     {
       "basename": "SISTEMAS OPERACIONAIS -- Roteiro",
       "path": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md"
     },
     {
-      "basename": "Mapa",
-      "path": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Mapa.canvas"
-    },
-    {
-      "basename": "Untitled Kanban",
-      "path": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Untitled Kanban.md"
-    },
-    {
-      "basename": "22-09-2024",
-      "path": "Notas diárias/22-09-2024.md"
-    },
-    {
-      "basename": "Resumo das aulas (laboratório)",
-      "path": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas (laboratório).md"
+      "basename": "Lang Chain",
+      "path": "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Lang Chain.md"
     },
     {
       "basename": "02",
@@ -63,62 +43,6 @@
     {
       "basename": "17",
       "path": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/17.jpg"
-    },
-    {
-      "basename": "Resumo das aulas",
-      "path": "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo das aulas.md"
-    },
-    {
-      "basename": "Afazeres",
-      "path": "pensamentos soltos/Afazeres.md"
-    },
-    {
-      "basename": "21-09-2024",
-      "path": "Notas diárias/21-09-2024.md"
-    },
-    {
-      "basename": "17-09-2024",
-      "path": "Notas diárias/17-09-2024.md"
-    },
-    {
-      "basename": "001 Datas Sumário",
-      "path": "Notas diárias/001 Datas Sumário.md"
-    },
-    {
-      "basename": "Séries",
-      "path": "pensamentos soltos/Séries.md"
-    },
-    {
-      "basename": "Addons Obsidian",
-      "path": "pensamentos soltos/Addons Obsidian.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Cores ✔️",
-      "path": "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md"
-    },
-    {
-      "basename": "atalhos",
-      "path": "pensamentos soltos/atalhos.md"
-    },
-    {
-      "basename": "Fazendo",
-      "path": "pensamentos soltos/Fazendo.canvas"
-    },
-    {
-      "basename": "Vagas de emprego",
-      "path": "pensamentos soltos/Vagas de emprego.md"
-    },
-    {
-      "basename": "ver",
-      "path": "pensamentos soltos/ver.png"
-    },
-    {
-      "basename": "como fazer um banner",
-      "path": "pensamentos soltos/como fazer um banner.md"
     },
     {
       "basename": "Fontes ✔️",
@@ -143,27 +67,9 @@
     {
       "basename": "Fonte-Cursive",
       "path": "imagens/fontes/Fonte-Cursive.png"
-    },
-    {
-      "basename": "Fonte-Fantasy",
-      "path": "imagens/fontes/Fonte-Fantasy.png"
-    },
-    {
-      "basename": "Fonte-Sem-Serifa-Nethead",
-      "path": "imagens/fontes/Fonte-Sem-Serifa-Nethead.png"
-    },
-    {
-      "basename": "anatomia fontes",
-      "path": "imagens/fontes/anatomia fontes.png"
-    },
-    {
-      "basename": "002",
-      "path": "imagens/banners/002.jpg"
-    },
-    {
-      "basename": "0001",
-      "path": "imagens/banners/0001.jpg"
     }
   ],
-  "omittedPaths": []
+  "omittedPaths": [
+    ""
+  ]
 }

@@ -11,7 +11,7 @@
       "revertView": true,
       "openWhenEmpty": true,
       "refreshDataview": false,
-      "autoCreate": false,
+      "autoCreate": true,
       "autoScroll": false,
       "pin": false,
       "commands": [],
