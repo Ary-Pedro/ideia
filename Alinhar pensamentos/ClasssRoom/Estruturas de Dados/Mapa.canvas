@@ -3,10 +3,10 @@
 		{"id":"b3950a2fabee8378","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/Módulo 03 - Elementos de Java.pdf","x":334,"y":-1440,"width":2230,"height":1591},
 		{"id":"c3bc41c3cf4df29b","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/Módulo 04  - Coleções em Java.pdf","x":3051,"y":-1440,"width":2230,"height":1591},
 		{"id":"668187ac2a6f7af5","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/Módulo 02 - Introdução à Linguagem Java.pdf","subpath":"#page=1","x":-2560,"y":-1440,"width":2126,"height":1591},
-		{"id":"dcd0f129c07dc2d1","type":"link","url":"https://www.youtube.com/watch?v=-58kmc7qLK0&ab_channel=AlessandroCerqueira","x":6560,"y":-824,"width":640,"height":360},
-		{"id":"1dbff67f285c07e8","type":"link","url":"https://www.youtube.com/watch?v=HiCNX_UQvq4&ab_channel=AlessandroCerqueira","x":7351,"y":-824,"width":640,"height":360},
 		{"id":"4ff7c8f7e5bab3a6","type":"text","text":"# RESUMO","x":-2360,"y":280,"width":370,"height":69},
-		{"id":"1bc2cb30283a6c53","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/Módulo 01 - Modelo Orientado a Objetos.pdf","x":-5320,"y":-1440,"width":2126,"height":1640}
+		{"id":"1bc2cb30283a6c53","type":"file","file":"Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Teoria/Módulo 01 - Modelo Orientado a Objetos.pdf","x":-5320,"y":-1440,"width":2126,"height":1640},
+		{"id":"dcd0f129c07dc2d1","type":"link","url":"https://www.youtube.com/watch?v=-58kmc7qLK0&ab_channel=AlessandroCerqueira","x":5560,"y":-760,"width":640,"height":360},
+		{"id":"1dbff67f285c07e8","type":"link","url":"https://www.youtube.com/watch?v=HiCNX_UQvq4&ab_channel=AlessandroCerqueira","x":6351,"y":-760,"width":640,"height":360}
 	],
 	"edges":[]
 }

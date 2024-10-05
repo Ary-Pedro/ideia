@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b854663d80bda28a",
+        "id": "edb8a9c690678c90",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa9c7f0fafd9479",
+            "id": "a69d802ef8835dfb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
+                "viewState": {
+                  "x": 6454.413635397404,
+                  "y": 1061.411323001268,
+                  "zoom": -0.7124545889818901
+                }
+              }
             }
           }
         ]
@@ -66,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "right": {
     "id": "81fdec77f1d685ac",
@@ -82,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pensamentos soltos/Hackathon/mapa mental nasa.canvas"
+              }
             }
           },
           {
@@ -147,7 +159,7 @@
             }
           },
           {
-            "id": "ec014abec412a912",
+            "id": "739ced39268d7dbe",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -184,59 +196,60 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6aa9c7f0fafd9479",
+  "active": "a69d802ef8835dfb",
   "lastOpenFiles": [
-    "Home.md",
-    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Python.md",
+    "Pasted image 20241004135501.png",
+    "pensamentos soltos/Fazendo.canvas",
     "pensamentos soltos/Afazeres.md",
+    "pensamentos soltos/Hackathon/Tarefa.md",
+    "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
+    "Home.md",
+    "Alinhar pensamentos/ClasssRoom/humanas/ética/Ética.md",
+    "Alinhar pensamentos/ClasssRoom/humanas/economia/Economia.md",
+    "pensamentos soltos/Hackathon",
+    "Pasted image 20241003225923.png",
+    "Pasted image 20241003225921.png",
+    "pensamentos soltos/Sem título.md",
+    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/aulas/Aula 1.md",
+    "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
+    "Notas diárias/23-09-2024.md",
+    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Mapa.canvas",
+    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Resumo, Estruturas de Dados.md",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
+    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
+    "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Python.md",
     "pensamentos soltos/Soltos.md",
     "pensamentos soltos/Vagas de emprego.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Diagrama de classe de projeto.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Resumo, Análise Orientada a Objetos.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Tasks.md",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Resumo, Estruturas de Dados.md",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Mapa.canvas",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/02.jpg",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/03.jpg",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/04.jpg",
     "pensamentos soltos/Addons Obsidian.md",
-    "Notas diárias/23-09-2024.md",
     "Notas diárias/001 Datas Sumário.md",
     "Notas diárias/17-09-2024.md",
     "Notas diárias/25-09-2024.md",
     "Notas diárias/21-09-2024.md",
     "Notas diárias/Sem título.md",
     "pensamentos soltos/como fazer um banner.md",
-    "pensamentos soltos/Fazendo.canvas",
     "imagens/fontes/anatomia fontes.png",
     "imagens/Pensamentos, arquivos de imagens/ver.png",
     "imagens/Pasted image 20241002083207.png",
     "imagens/Pasted image 20241002082629.png",
     "7.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Quente.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/Mapa.canvas",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/exer5_2024.pdf",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzaZz0idCaM3mE0bxdjAHRjkHsGvz3vVBTZrcsp6v46Ko6BCgt_3qoc5JUwGonVbiEHBb9pqbrYLBQwItqHgH2sTvrvGFC3bdL3azAEgBsfWYQOJSAW6-JVWU7UmvgAVNO7rzocgyS_IbjfCGPP1NJ282MpmyriwPhJhfDQnotOuQEvYpz-Cp9tTuTbbC0fpjQo4aG30p3WN51n (1).pdf",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzaZz0idCaM3mE0bxdjAHRjkHsGvz3vVBTZrcsp6v46Ko6BCgt_3qoc5JUwGonVbiEHBb9pqbrYLBQwItqHgH2sTvrvGFC3bdL3azAEgBsfWYQOJSAW6-JVWU7UmvgAVNO7rzocgyS_IbjfCGPP1NJ282MpmyriwPhJhfDQnotOuQEvYpz-Cp9tTuTbbC0fpjQo4aG30p3WN51niPeV.pdf",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Diagrama de classe conceito.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Diagrama de Classe Caso de uso.md",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Diagrama de Classe Estado (DTE).md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes/Pasted image 20241002114458.png",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes/Pasted image 20241002115402.png",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes/Pasted image 20241002114808.png",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Resumo das aulas (laboratório).md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/exer2_2024.2.pdf",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/guia das aulas/Revisão de analise e conceitos.md",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzabIPYmoIVgjdfZM_gxtbwpnlKq7F3sI7dZFM4WMhekF0AjTOkIIcUiRmqNYtvdiKFMsDL-HXRWrrZAUCNQeLIra3EykQFwr8Y6lwq6g61iiU19BK6SaWaXKbxby0ozPyikTdNxqvNjPrIDqtgUdOqToRBZ-8ra_YEiTa0W_NJsPWcpxcBQoQHBdyFlNyeT3m-TL.pdf",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes",
     "pensamentos soltos/labs unity.canvas",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes",
-    "link --.md",
     "Alinhar pensamentos/ClasssRoom/humanas/ética",
-    "Alinhar pensamentos/ClasssRoom/humanas/economia",
-    "pensamentos soltos/atalhos.md",
-    "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
     "Sem título.canvas",
     "TexoModelagem/Fazendo.canvas",
     "Sem título 1.canvas",

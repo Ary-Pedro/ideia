@@ -25,8 +25,6 @@ kanban-plugin: board
 ## Fazendo
 
 - [ ] finalizar textos - termina resumo de sis op
-- [ ] fazer seminário, economia e ética
-- [ ] Listar exercícios da Cristina: economia e ética
 - [ ] atualizar metodologia e termos atvdd integradora
 - [ ] montar o sistema, autônomo e integradora
 
@@ -43,6 +41,8 @@ kanban-plugin: board
 - [x] comissão (autônomo)
 - [x] termina Tde de Analise (George) ATUALIZAR CORREÇÃO
 - [x] Fazer resumo de George
+- [x] Listar exercícios da Cristina: economia e ética
+- [x] fazer seminário, economia e ética
 
 
 ## Ong fazendo

@@ -26,7 +26,7 @@
 		{"id":"8961a83cfad1cfc3","type":"text","text":"# Slides","x":11712,"y":-2079,"width":168,"height":79},
 		{"id":"f84fc2a0cae014c9","type":"text","text":"# Slide 1","x":12752,"y":-1889,"width":168,"height":50},
 		{"id":"1978a490ff614517","type":"text","text":"Tópicos","x":13354,"y":-1729,"width":166,"height":69},
-		{"id":"39a8d0ba9bedcf7d","type":"text","text":"- 1 Gerenciador de recursos (hardware)\n- 2 Gerenciador de software\n- 3 Escalonamento de processos\n- 4 Gerência de memória\n- 5 Segurança\n- 6 Etc...\n","x":13852,"y":-1839,"width":668,"height":359},
+		{"id":"39a8d0ba9bedcf7d","type":"text","text":"- 1 Gerenciador de recursos (hardware)\n- 2 Gerenciador de software\n- 3 Escalonamento de processos\n- 4 Gerência de memória\n- 5 Segurança\n- 6 Etc...\n","x":13852,"y":-1839,"width":668,"height":239},
 		{"id":"be22ef542c845cf8","type":"link","url":"https://docs.google.com/presentation/d/1DHuX15drj_TG5pwwNdFnG__P_PpS-2d9/edit#slide=id.p1","x":12400,"y":-3995,"width":1854,"height":1746},
 		{"id":"b02ac90e8c718001","type":"text","text":"CONCEITOS SOLTOS","x":14432,"y":-4108,"width":338,"height":60,"color":"6"},
 		{"id":"e1e42e6ee2783cf1","type":"text","text":"**Spooling** - Técnica que agrupa fisicamente as tarefas para otimizar o tempo gasto com operações de Entrada/Saída (E/S).","x":14432,"y":-3995,"width":876,"height":124},
