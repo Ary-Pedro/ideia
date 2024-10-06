@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "edb8a9c690678c90",
+        "id": "7300707e348c481c",
         "type": "tabs",
         "children": [
           {
-            "id": "a69d802ef8835dfb",
+            "id": "1c93b8a28958dd27",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
+                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
                 "viewState": {
-                  "x": 6454.413635397404,
-                  "y": 1061.411323001268,
-                  "zoom": -0.7124545889818901
+                  "x": 13638.266838718324,
+                  "y": -3126.136454886857,
+                  "zoom": -1.3333333333333328
                 }
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
+                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
+                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pensamentos soltos/Hackathon/mapa mental nasa.canvas"
+                "file": "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "739ced39268d7dbe",
+            "id": "dfd9e854aab0b256",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -196,16 +196,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a69d802ef8835dfb",
+  "active": "1c93b8a28958dd27",
   "lastOpenFiles": [
-    "Pasted image 20241004135501.png",
+    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Mapa.canvas",
+    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Resumo, Estruturas de Dados.md",
+    "Alinhar pensamentos/ClasssRoom/humanas/economia/Economia.md",
+    "Home.md",
+    "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
     "pensamentos soltos/Fazendo.canvas",
+    "pensamentos soltos/labs unity.canvas",
+    "Pasted image 20241004135501.png",
     "pensamentos soltos/Afazeres.md",
     "pensamentos soltos/Hackathon/Tarefa.md",
-    "pensamentos soltos/Hackathon/mapa mental nasa.canvas",
-    "Home.md",
     "Alinhar pensamentos/ClasssRoom/humanas/ética/Ética.md",
-    "Alinhar pensamentos/ClasssRoom/humanas/economia/Economia.md",
     "pensamentos soltos/Hackathon",
     "Pasted image 20241003225923.png",
     "Pasted image 20241003225921.png",
@@ -213,8 +216,6 @@
     "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/aulas/Aula 1.md",
     "Alinhar pensamentos/programação/Texto e estilos/css/Cores ✔️.md",
     "Notas diárias/23-09-2024.md",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Mapa.canvas",
-    "Alinhar pensamentos/ClasssRoom/Estruturas de Dados/Resumo, Estruturas de Dados.md",
     "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md",
     "Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/Mapa.canvas",
     "Alinhar pensamentos/programação/Referente a (oque quero estudar)/Python.md",
@@ -242,11 +243,9 @@
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/exer5_2024.pdf",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzaZz0idCaM3mE0bxdjAHRjkHsGvz3vVBTZrcsp6v46Ko6BCgt_3qoc5JUwGonVbiEHBb9pqbrYLBQwItqHgH2sTvrvGFC3bdL3azAEgBsfWYQOJSAW6-JVWU7UmvgAVNO7rzocgyS_IbjfCGPP1NJ282MpmyriwPhJhfDQnotOuQEvYpz-Cp9tTuTbbC0fpjQo4aG30p3WN51n (1).pdf",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzaZz0idCaM3mE0bxdjAHRjkHsGvz3vVBTZrcsp6v46Ko6BCgt_3qoc5JUwGonVbiEHBb9pqbrYLBQwItqHgH2sTvrvGFC3bdL3azAEgBsfWYQOJSAW6-JVWU7UmvgAVNO7rzocgyS_IbjfCGPP1NJ282MpmyriwPhJhfDQnotOuQEvYpz-Cp9tTuTbbC0fpjQo4aG30p3WN51niPeV.pdf",
-    "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes/Pasted image 20241002114458.png",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/exer2_2024.2.pdf",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes/APznzabIPYmoIVgjdfZM_gxtbwpnlKq7F3sI7dZFM4WMhekF0AjTOkIIcUiRmqNYtvdiKFMsDL-HXRWrrZAUCNQeLIra3EykQFwr8Y6lwq6g61iiU19BK6SaWaXKbxby0ozPyikTdNxqvNjPrIDqtgUdOqToRBZ-8ra_YEiTa0W_NJsPWcpxcBQoQHBdyFlNyeT3m-TL.pdf",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro/quentes",
-    "pensamentos soltos/labs unity.canvas",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/quadro",
     "Alinhar pensamentos/ClasssRoom/Análise Orientada a Objetos/imagem dos quadros/recortes",
     "Alinhar pensamentos/ClasssRoom/humanas/ética",
