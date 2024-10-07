@@ -28,14 +28,25 @@
 		{"id":"1978a490ff614517","type":"text","text":"Tópicos","x":13354,"y":-1729,"width":166,"height":69},
 		{"id":"39a8d0ba9bedcf7d","type":"text","text":"- 1 Gerenciador de recursos (hardware)\n- 2 Gerenciador de software\n- 3 Escalonamento de processos\n- 4 Gerência de memória\n- 5 Segurança\n- 6 Etc...\n","x":13852,"y":-1839,"width":668,"height":239},
 		{"id":"be22ef542c845cf8","type":"link","url":"https://docs.google.com/presentation/d/1DHuX15drj_TG5pwwNdFnG__P_PpS-2d9/edit#slide=id.p1","x":12400,"y":-3995,"width":1854,"height":1746},
-		{"id":"b02ac90e8c718001","type":"text","text":"CONCEITOS SOLTOS","x":14432,"y":-4108,"width":338,"height":60,"color":"6"},
 		{"id":"e1e42e6ee2783cf1","type":"text","text":"**Spooling** - Técnica que agrupa fisicamente as tarefas para otimizar o tempo gasto com operações de Entrada/Saída (E/S).","x":14432,"y":-3995,"width":876,"height":124},
-		{"id":"07293a880ea31cf1","type":"text","text":"**Multiprogramação**: Técnica que permite que múltiplos programas sejam executados simultaneamente em um sistema.\n\n- **Time-sharing**: Método que divide o tempo de CPU entre vários usuários ou processos, permitindo a execução interativa de múltiplas tarefas ao mesmo tempo.\n  \n  <br>\n  \n- **Time-slice**: Intervalo de tempo alocado a cada processo em um sistema de time-sharing antes que a CPU troque para outro processo.","x":14432,"y":-3837,"width":876,"height":477},
 		{"id":"e79296928a655e3e","type":"link","url":"https://docs.google.com/presentation/d/1iPB94NZSNHuYeCcIEeiytDLHlclqFPaB/edit#slide=id.p1","x":9360,"y":-3995,"width":1854,"height":1746},
 		{"id":"27a550ea82911336","type":"text","text":"# GERÊNCIA DO PROCESSADOR OU ESCALONAMENTO DE PROCESSOS","x":3040,"y":-2360,"width":1040,"height":80,"color":"6"},
 		{"id":"435199723fa14841","type":"file","file":"Alinhar pensamentos/ClasssRoom/Sistemas Operacionais/SISTEMAS OPERACIONAIS -- Roteiro.md","x":-1440,"y":-1145,"width":575,"height":600},
 		{"id":"396246dd5d8b895b","type":"text","text":"#  4. SINCRONIZAÇÃO DE PROCESSOS","x":1320,"y":-1180,"width":580,"height":65,"color":"6"},
-		{"id":"a8fbc650ab8caf43","type":"text","text":"# GERÊNCIA DE MEMÓRIA","x":4042,"y":-3040,"width":419,"height":73,"color":"6"}
+		{"id":"a8fbc650ab8caf43","type":"text","text":"# GERÊNCIA DE MEMÓRIA","x":4042,"y":-3040,"width":419,"height":73,"color":"6"},
+		{"id":"0a0cf8c7957bfccb","x":13356,"y":-1469,"width":250,"height":60,"type":"text","text":"# Aula"},
+		{"id":"66ce221600211d03","x":15520,"y":-4120,"width":160,"height":60,"type":"text","text":"Exemplos:"},
+		{"id":"07293a880ea31cf1","type":"text","text":"**Multiprogramação**: Técnica que permite que múltiplos programas sejam executados simultaneamente em um sistema.","x":14432,"y":-3837,"width":876,"height":97},
+		{"id":"8203433f837ff706","x":15394,"y":-3837,"width":666,"height":77,"type":"text","text":"Exemplo: Um servidor web que executa várias aplicações ao mesmo tempo, como um banco de dados e um servidor de e-mail."},
+		{"id":"0fb2f08987b7eccf","x":16188,"y":-3888,"width":652,"height":128,"type":"text","text":"- **Time-sharing**: Método que divide o tempo de CPU entre vários usuários ou processos, permitindo a execução interativa de múltiplas tarefas ao mesmo tempo."},
+		{"id":"fba9dd943eeaaee8","x":16188,"y":-3720,"width":652,"height":125,"type":"text","text":"- **Time-slice**: Intervalo de tempo alocado a cada processo em um sistema de time-sharing antes que a CPU troque para outro processo."},
+		{"id":"675d9ba068a871ee","x":15760,"y":-4120,"width":783,"height":148,"type":"text","text":"Carregamento de arquivos para a web: Em servidores web, quando vários usuários fazem upload de arquivos simultaneamente, os dados podem ser colocados em uma fila (spool) para serem processados à medida que o sistema tiver capacidade, sem interromper o acesso para outros usuários."},
+		{"id":"b08ef77c3a1000be","x":15760,"y":-4360,"width":782,"height":162,"type":"text","text":"Impressão em filas: Quando você envia vários documentos para a impressora, eles não são impressos imediatamente, mas ficam em uma fila (spool). Enquanto a impressora processa um documento, outros programas podem continuar enviando novas impressões sem precisar esperar."},
+		{"id":"c713eba4614e2b83","x":16940,"y":-3901,"width":777,"height":77,"type":"text","text":"Exemplo: Um mainframe universitário que permite que vários estudantes usem o mesmo computador simultaneamente para diferentes tarefas.\n"},
+		{"id":"7ae6054904734a3c","x":16940,"y":-3688,"width":777,"height":128,"type":"text","text":"Exemplo: Em um sistema operacional, cada aplicativo aberto no seu computador recebe um pequeno intervalo de tempo para executar suas operações, garantindo que todos funcionem de forma responsiva."},
+		{"id":"027b2059b5be0679","x":14432,"y":-3680,"width":874,"height":88,"type":"text","text":"Sistemas de tempo real - suporte a aplicações críticas em que o tempo de resposta deve estar dentro de limites muito rígidos\n"},
+		{"id":"b02ac90e8c718001","type":"text","text":"CONCEITOS SOLTOS","x":14432,"y":-4120,"width":338,"height":60,"color":"6"},
+		{"id":"8318df5d7626db42","x":15394,"y":-3636,"width":366,"height":184,"type":"text","text":"Exemplos:\n- Controle de tráfego aéreo;\n- Usinas nucleares;\n- Centrais telefônicas."}
 	],
 	"edges":[
 		{"id":"01b22761cfd9c620","fromNode":"7784f7fe06edcfe4","fromSide":"bottom","toNode":"a1ebe76ed1ba7a43","toSide":"left","color":"6"},
@@ -68,6 +79,16 @@
 		{"id":"6c129f4320adf36d","fromNode":"8961a83cfad1cfc3","fromSide":"bottom","toNode":"f84fc2a0cae014c9","toSide":"left","color":"4"},
 		{"id":"e5eeaa478df6601a","fromNode":"8961a83cfad1cfc3","fromSide":"right","toNode":"be22ef542c845cf8","toSide":"bottom","color":"1"},
 		{"id":"611c8e67afa5e05e","fromNode":"f84fc2a0cae014c9","fromSide":"right","toNode":"1978a490ff614517","toSide":"left","color":"4"},
-		{"id":"9bb99ce047ecc3b9","fromNode":"1978a490ff614517","fromSide":"right","toNode":"39a8d0ba9bedcf7d","toSide":"left","color":"4"}
+		{"id":"9bb99ce047ecc3b9","fromNode":"1978a490ff614517","fromSide":"right","toNode":"39a8d0ba9bedcf7d","toSide":"left","color":"4"},
+		{"id":"e541c551bcf9af2e","fromNode":"1978a490ff614517","fromSide":"bottom","toNode":"0a0cf8c7957bfccb","toSide":"top"},
+		{"id":"b654b99379818aa5","fromNode":"e1e42e6ee2783cf1","fromSide":"right","toNode":"66ce221600211d03","toSide":"left"},
+		{"id":"355957083a8893e7","fromNode":"66ce221600211d03","fromSide":"right","toNode":"b08ef77c3a1000be","toSide":"left"},
+		{"id":"d5c05d2842db993a","fromNode":"66ce221600211d03","fromSide":"right","toNode":"675d9ba068a871ee","toSide":"left"},
+		{"id":"d0d252c0b4b4f982","fromNode":"07293a880ea31cf1","fromSide":"right","toNode":"8203433f837ff706","toSide":"left"},
+		{"id":"41ceed9bb1e8c0a1","fromNode":"8203433f837ff706","fromSide":"right","toNode":"0fb2f08987b7eccf","toSide":"left"},
+		{"id":"62f1457eccb57446","fromNode":"8203433f837ff706","fromSide":"right","toNode":"fba9dd943eeaaee8","toSide":"left"},
+		{"id":"6747a3758e29cfd9","fromNode":"0fb2f08987b7eccf","fromSide":"right","toNode":"c713eba4614e2b83","toSide":"left"},
+		{"id":"4e74b4a7f1313c3d","fromNode":"fba9dd943eeaaee8","fromSide":"right","toNode":"7ae6054904734a3c","toSide":"left"},
+		{"id":"7021f663715e9514","fromNode":"027b2059b5be0679","fromSide":"right","toNode":"8318df5d7626db42","toSide":"left"}
 	]
 }
